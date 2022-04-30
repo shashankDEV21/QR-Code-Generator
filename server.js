@@ -21,4 +21,4 @@ qrcode.toDataURL(input_text,(err,src)=>{
 })
 })
 
-app.listen(port,console.log(`Listening on port ${3000}`))
+app.listen(port,console.log(`Listening on port ${port}`))
